@@ -10,7 +10,8 @@ Familiarity with Python's data manipulation (pandas) and machine learning (sciki
 
 
 ## Data Source
-The dataset is hosted on GitHub and can be directly accessed through this link: https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true <br>
+The dataset is hosted on GitHub and can be directly accessed through this link: <br>
+https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true <br>
 It features demographic information across 48,842 instances and is pre-split into training and testing datasets.
 - Number of target classes: 2: '>50K' and '<=50K' (labels: 1, 0)
 - Number of attributes (Columns): 7
