@@ -1,5 +1,4 @@
-# BSAN6070-CA03
-# Decision Tree Classification
+# CA03 – Decision Tree Classification
 
 ## Introduction
 This project involves the development and evaluation of a Decision Tree Classifier to predict income levels based on census data. Using data from the Census Bureau, which includes seven demographic variables, we aim to classify individuals into two income categories: ">50K" and "<=50K". This notebook guides you through data preparation, analysis, building decision tree models, performance evaluation, tuning, and visualization.
